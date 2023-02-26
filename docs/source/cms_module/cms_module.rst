@@ -442,7 +442,7 @@ Blogs
 
 The blog section in CMS module is where we can create new blogs and edit existing ones which are shown in the Blog section in the frontend.
 
-.. image:: ./../../images/image165.jpg
+.. image:: ./../../images/image165.png
 
 *Figure 2.611: Blogs section link*
 
@@ -450,7 +450,7 @@ To enter the blogs section, users should click on the Blogs link of the sidebar.
 
 On clicking the blog link, a drop down menu will appear containing two options: Create New Blog and All Blogs.
 
-.. image:: ./../../images/image167.jpg
+.. image:: ./../../images/image167.png
 
 *Figure 2.612: All Blogs Link*
 
@@ -458,7 +458,7 @@ When the user clicks on the All Blogs option, the user is redirected to the All 
 
 All Blogs page looks like this:
 
-.. image:: ./../../images/image170.jpg
+.. image:: ./../../images/image170.png
 
 *Figure 2.613: All Blogs Page*
 
@@ -466,25 +466,25 @@ Figure 2.613: All Blogs Page
 
 To create a new blog, click on the New button. Alternatively, you can click on Create New Blog link in sidebar.
 
-.. image:: ./../../images/image144.jpg
+.. image:: ./../../images/image144.png
 
 *Figure 2.614: Create New Blog link*
 
 After clicking on Create New Blog or New button, user is redirected to a create blog form.  There are five pages in form creation. At first, User has to fill Blog Content which is auto selected and appears like this:
 
-.. image:: ./../../images/image147.jpg
+.. image:: ./../../images/image147.png
 
 *Figure 2.615: Create New Blog form*
 
 Red colored asterick (*) fields are necessary to be filled. When user completes this form, he/she can click on next page, i.e. Image:
 
-.. image:: ./../../images/image148.jpg
+.. image:: ./../../images/image148.png
 
 *Figure 2.616: Image Link*
 
 Image would appear like this:
 
-.. image:: ./../../images/image150.jpg
+.. image:: ./../../images/image150.png
 
 *Figure 2.617: Image*
 
@@ -493,6 +493,304 @@ To upload an image, the user can drag and drop the image into the drop section o
 
 The user also has the option to display the image in frontend in the blog section by checking the Show option under Show in Front Page.
 
-.. image:: ./../../images/image243.jpg
+.. image:: ./../../images/image243.png
 
 *Figure 2.618: Show image in front page option*
+
+The next section is Seo Details page where the user can enter seo details.
+
+.. image:: ./../../images/image246.png
+
+*Figure 2.619: Seo Details link*
+
+The Seo Details page looks like this:
+
+.. image:: ./../../images/image249.png
+
+*Figure 2.620: Seo Details page*
+
+In this page, user can enter the seo details for the respective blog.
+
+.. image:: ./../../images/image252.png
+
+*Figure 2.621: Meta Tags Link*
+
+The user can enter meta tags section by clicking on the Meta Tags link.
+
+The Meta Tags section looks like this:
+
+.. image:: ./../../images/image255.png
+
+*Figure 2.622: Meta Tags section*
+
+In the meta tags section, the user can click on add more to add the required meta tags for the specific blog.
+
+.. image:: ./../../images/image257.png
+
+*Figure 2.623: Meta Tags add more*
+
+.. image:: ./../../images/image302.png
+
+*Figure 2.624: Meta Tags section*
+
+The final subsection is Social Media where the user can enter social media details for the blog.
+
+The social media section looks like this:
+
+.. image:: ./../../images/image299.png
+
+*Figure 2.625: Social Media section*
+
+In the Social Media section, user can add multiple social media share options by entering details in the Link, Title and Icon Class fields.
+
+.. image:: ./../../images/image308.png
+
+*Figure 2.626: Social Media add more*
+
+If the form fill-up process has finished, then you can either draft the blog or publish the product. To draft the blog, click on DRAFT button. To publish the blog, click on PUBLISH button.
+
+.. image:: ./../../images/image305.png
+
+*Figure 2.627: draft or publish*
+
+The created product will appear in tabular form in all blogs page. Now to edit blog, user can click on edit button present on Action column.
+
+.. image:: ./../../images/image290.png
+
+*Figure 2.627: draft or publish*
+
+The edit page will be the same as create page. The user needs to enter the Blog Content in which the fields marked by asterisk (*) are mandatory. Then like in the create form, the user can edit all the required details and enter the updated data.
+
+The user can update Image, Seo Details, Meta Tags and Social Media for the selected blog After updating the data, the user can click on the publish button to publish the blog with the updated data.
+
+*Figure 2.628: Update blog*
+
+To delete the blog, user can simply click on delete button next to the edit button.
+
+.. image:: ./../../images/image296.png
+
+*Figure 2.629: Delete blog*
+
+After clicking on the delete button, a confirmation box will pop up to confirm the action. If you are sure to delete it, you can click on the Delete button. Otherwise you can click on close.
+
+.. image:: ./../../images/image293.png
+
+*Figure 2.629: Delete blog confirmation*
+
+User
+-----
+
+User is the one who manages the cms system. Adding new user, assigning roles with privileges is done in this section.
+
+To get into into this section, user has to click on User link present on sidebar.
+
+.. image:: ./../../images/image285.jpg
+
+*Figure 2.73: user link*
+
+It slides down with these sub-sections:
+
+* User
+* Roles
+* Privileges
+* User Log
+
+User
+^^^^^
+
+It holds information about user of this system.
+
+The user can simply click on User link, present at the sidebar to get into it.
+
+.. image:: ./../../images/image284.jpg
+
+*Figure 2.74: subsection user link*
+
+Clicking on it loads the following page where user information can be seen in tabular form.
+
+.. image:: ./../../images/image229.jpg
+
+*Figure 2.75: user information*
+
+To add new user, you have to click on New button.
+
+.. image:: ./../../images/image219.jpg
+
+*Figure 2.76: add user*
+
+It will land user to a page where he/she has to enter full name, address, phone, email, password, roles and profile image.
+
+.. image:: ./../../images/image216.jpg
+
+*Figure 2.77: create user page*
+
+If entering the user detail is finished, he/she can click on submit button.
+
+.. image:: ./../../images/image225.jpg
+
+*Figure 2.78: submit user detail*
+
+If the user wants to update detail, he/she can click on edit button.
+
+.. image:: ./../../images/image222.jpg
+
+*Figure 2.79: edit user detail*
+
+Edit page would be same as that of create user page. User can make changes there and click on update button.
+
+*Figure 2.80: update user detail*
+
+Roles
+^^^^^^
+
+The user is grouped with a role provided to him/her. It can be Superadmin, Admin, normal user, etc.
+
+To get inside this subsection, user can click on Roles from sidebar.
+
+.. image:: ./../../images/image205.jpg
+
+*Figure 2.81: roles*
+
+It will land user to the following page where roles are listed in tabular form with some description.
+
+.. image:: ./../../images/image213.jpg
+
+*Figure 2.82: roles page*
+
+Now the user can create new role. To do so he/she has to click on New button.
+
+.. image:: ./../../images/image211.jpg
+
+*Figure 2.83: create role*
+
+Role creation page would look like this. User can put Title, Description, Access By and click on privileges to give for that particular role.
+
+.. image:: ./../../images/image204.jpg
+
+*Figure 2.84: create role page*
+
+The user can click on submit button to submit it.
+
+.. image:: ./../../images/image261.jpg
+
+*Figure 2.85: submit role*
+
+To edit role, you can click on edit button.
+
+.. image:: ./../../images/image258.jpg
+
+*Figure 2.86: edit role*
+
+The edit page would be same as that of create page. After making some changes user can click on update button.
+
+.. image:: ./../../images/image244.jpg
+
+*Figure 2.87: update role*
+
+The created role can also be deleted. To do so, user has to click on delete button, present next to edit button.
+
+.. image:: ./../../images/image241.jpg
+
+*Figure 2.88: delete role*
+
+Clicking on delete button will make a confirmation box appear. To actually delete the role, click on Delete button and to cancel delete, click on close.
+
+.. image:: ./../../images/image250.jpg
+
+*Figure 2.89: confirm delete*
+
+Privileges
+^^^^^^^^^^^
+
+Privileges are stored in this subsection.
+
+User has to click on privileges link present at subsection of User in sidebar to get into it.
+
+.. image:: ./../../images/image247.jpg
+
+*Figure 2.90: privileges*
+
+The page that shows list of privileges look like this:
+
+.. image:: ./../../images/image236.jpg
+
+*Figure 2.91: list of privileges*
+
+User Log
+^^^^^^^^^
+
+All the user activities will remain in user log. To view it, user can click on User Log below Privileges.
+
+.. image:: ./../../images/image234.jpg
+
+*Figure 2.92: user log link*
+
+The page that shows user activity is:
+
+.. image:: ./../../images/image239.jpg
+
+*Figure 2.93: user log*
+
+Trending News
+--------------
+
+In this section user can upload ongoing trending news around the country or worldwide.
+
+User can click on trending news of sidebar. This will lead the user to a trending news page where the titles of the current trending news are listed.
+
+.. image:: ./../../images/image238.png
+
+*Figure 2.94: Trending News*
+
+.. image:: ./../../images/image163.png
+
+*Figure 2.95: Create new trending news*
+
+After clicking on New button, we are directed to the create trending news page.
+
+To create a new trending news, we need to fill the title and description and then click on submit button.
+
+.. image:: ./../../images/image171.png
+
+*Figure 2.96: Create new trending news page.*
+
+.. image:: ./../../images/image168.png
+
+*Figure 2.97: Create new trending news*
+
+Contact Details
+----------------
+
+
+The contact details page displays the details entered by customer in the Contact Us page of the website. It displays the name, contact number, email, title and message of the customer.
+
+The User can view this information by clicking on the Contact Details link just below Trending News.
+
+.. image:: ./../../images/image154.jpg
+
+Settings
+----------
+
+In this section user can fill some information about the website. User can click on settings of sidebar.
+
+.. image:: ./../../images/image151.jpg
+
+*Figure 2.98: settings link*
+
+The settings page would look like this:
+
+.. image:: ./../../images/image160.jpg
+
+*Figure 2.99: settings*
+
+Here, the user must enter site name. Site Address, Site Contact, Site Email and Google Map Link are optional.
+
+.. image:: ./../../images/image157.jpg
+
+Figure 2.991: submit settings detail
+
+If the user wants to update settings detail, he/she can go to the same link(settings of sidebar) and make changes there. After making some changes, he/she has to click on update button.
+
+.. image:: ./../../images/image145.jpg
+
+*Figure 2.992: update settings detail*
