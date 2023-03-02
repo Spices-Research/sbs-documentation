@@ -14,16 +14,14 @@ Contents
 ---------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Introduction
-
-   intro
-
-.. toctree::
    :caption: CMS Module
 
    cms_module/cms_module
 
+.. toctree::
+   :caption: Bank Module
+
+   bank_module/bank_module
 
 
 Indices and tables
