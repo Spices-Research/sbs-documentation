@@ -955,3 +955,262 @@ The user can view the foreign exchange rate logs by clicking on the log button. 
 
 *Figure 3.68: Foreign Exchange Rate Log*
 
+Customer
+---------
+
+For a customer to get logged-in, he/she has to navigate to home page of this website and click on login present at the navbar.
+
+.. image:: ./../../images/image348.jpg
+
+*Figure 5.1: customer login link*
+
+Customer login page look like this:
+
+.. image:: ./../../images/image351.jpg
+
+*Figure 5.2: customer login page*
+
+Customer can login to the system by entering his/her email address and password. But if he/she has not created an account, he/she can simply click on ’Register Here’ link.
+
+.. image:: ./../../images/image350.jpg
+
+*Figure 5.3: customer register link*
+
+The customer register page looks like this:
+
+.. image:: ./../../images/image345.jpg
+
+*Figure 5.4: customer register*
+
+In this page, the customer has to provide his/her details where firstname, lastname, email, address, gender, marital status, dob(date of birth) and password are the must. He/she can click on Sign Up button after entering necessary details.
+
+.. image:: ./../../images/image344.jpg
+
+*Figure 5.5: customer sign up*
+
+Now the customer can do login through login page entering the link provided above in browser url bar.
+
+To login into the system the customer has to enter his/her email address and password as provided in customer register page. After entering them click on Log In button.
+
+.. image:: ./../../images/image347.jpg
+
+*Figure 5.6: customer login*
+
+Customer home page looks like this:
+
+.. image:: ./../../images/image346.jpg
+
+*Figure 5.7: customer home page*
+
+If we look at sidebar, we see Account Information and inside it we have personal information, employment information and change password.
+
+.. image:: ./../../images/image321.jpg
+
+*Figure 5.8: Account Information*
+
+Personal Information
+^^^^^^^^^^^^^^^^^^^^^
+
+The customer can view his/her personal information by clicking on personal information present at sidebar inside Account Information.
+
+.. image:: ./../../images/image323.jpg
+
+*Figure 5.9: customer personal information link*
+
+Alternatively, you can click on your name present at navbar and then click on ’My Profile’.
+
+.. image:: ./../../images/image322.jpg
+
+*Figure 5.10: alternative customer personal information link*
+
+Clicking on personal information link will land the customer to the following page.
+
+.. image:: ./../../images/image318.jpg
+
+*Figure 5.11: customer personal information*
+
+Here the customer can view his/her details. To edit the details, he/she can click on edit button.
+
+.. image:: ./../../images/image317.jpg
+
+*Figure 5.12: edit button*
+
+Now he/she can edit the details. To update it, the customer must click on update button.
+
+.. image:: ./../../images/image320.jpg
+
+*Figure 5.13: customer personal information update*
+
+Employment Information
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The customer can be an employee of a company. He/she can also view his/her employee details by clicking on employment information which is present below personal information inside account information.
+
+.. image:: ./../../images/image319.jpg
+
+*Figure 5.14: customer employment information link*
+
+Clicking on employment information will land the customer to the following page.
+
+.. image:: ./../../images/image315.jpg
+
+*Figure 5.15: customer employment information*
+
+To edit employment information he/she has to click on edit button.
+
+.. image:: ./../../images/image314.jpg
+
+*Figure 5.16: edit button*
+
+Now the customer can do some changes there and click on update button.
+
+.. image:: ./../../images/image316.jpg
+
+*Figure 5.17: customer employment information update*
+
+Change Password
+^^^^^^^^^^^^^^^^
+
+The customer can change his/her account password. To do so, he/she has to click on change password link below employment information inside account information.
+
+.. image:: ./../../images/image339.jpg
+
+*Figure 5.18: change password link*
+
+The change password page looks like this.
+
+.. image:: ./../../images/image338.jpg
+
+*Figure 5.19: change password*
+
+To change password, the customer has to enter his/her existing password, new password and re-enter password. The existing password must match with old password and the re-enter password must match with new password. After entering these three fields, the customer can click on update password button.
+
+.. image:: ./../../images/image343.jpg
+
+*Figure 5.20: change password update*
+
+My Application
+^^^^^^^^^^^^^^^
+
+The user can apply for a loan by clicking on the Apply Now button in the loan details page.
+
+.. image:: ./../../images/image341.png
+
+*Figure 5.21: Apply loan*
+
+After clicking on the Apply Now button, if the user is signed in, the Apply Now button will change to green and the button will be displayed as Applied. The user can also click on Click here button to go to the My Application page. After applying for the loan, the user is also notified via email about the loan applied.
+
+.. image:: ./../../images/image332.png
+
+*Figure 5.22: Applied*
+
+If the user is not signed in, a Log In popup will appear. The user will have to enter the email and password and sign in in order to apply for the loan.
+
+.. image:: ./../../images/image330.png
+
+*Figure 5.23: Log In pop up*
+
+If the user is not registered, they can click on the Register Now button to register. The user can click on the Forgot Password link if he/she has forgotten their password.
+
+ After the user clicks on the Click Here link, the user is redirected to the My Application page.
+
+.. image:: ./../../images/image336.png
+
+*Figure 5.24: My Application Page*
+
+In the My Application page, the loans which the user has applied for are displayed.
+
+The details like Bank Name, Loan type, Date applied, Status of the application and Action to be performed on the loan is displayed.
+
+Users can view and edit additional information of the applied loan by clicking on the eye button under Action.
+
+.. image:: ./../../images/image334.png
+
+
+*Figure 5.25: View and edit additional information*
+
+The information page looks like this:
+
+.. image:: ./../../images/image327.png
+
+*Figure 5.26: Applied Loans Information*
+
+
+The user can click on the Go Back button to go back to the all applied loan details page.
+
+If the user wants to cancel the application, they can click on the Cancel Application button.
+
+.. image:: ./../../images/image325.png
+
+*Figure 5.27: Go Back and Cancel Application buttons*
+
+
+After clicking on the Cancel Application button, the status of the loan is changed from Pending to Canceled and the user is redirected to the My Application page. The user is also notified via email about the canceled
+
+.. image:: ./../../images/image283.png
+
+*Figure 5.28: Canceled loan application.*
+
+If the user wants to process for the loan, the user must fill the details in the loan application details page. The fields marked with asterisk (*) are mandatory whereas other fields are optional.
+
+.. image:: ./../../images/image278.png
+
+*Figure 5.29: Submit Loan application*
+
+If all the details are valid, the loan application details will be submitted. A pop up message will appear confirming that the loan has been applied successfully.
+
+A Proceed button will appear next to Go Back.
+
+.. image:: ./../../images/image276.png
+
+*Figure 5.30: Proceed*
+
+After clicking on Proceed, the loan details will be submitted for further processing, the status of the loan will change to Processing. The user will also be notified via email that the loan has been applied for processing.
+
+The details will be reviewed by the loan processing team in the backend and will be approved or disapproved based on the information provided.
+
+Logs
+""""""
+
+The loan processing logs can be viewed by clicking on the Logs tab.
+
+.. image:: ./../../images/image282.png
+
+*Figure 5.31: Logs link*
+
+After clicking on the Logs link, the logs of the user’s activities will be displayed. The logs page looks like this:
+
+.. image:: ./../../images/image280.png
+
+*Figure 5.32: Logs page*
+
+My Search
+^^^^^^^^^^
+
+The My Search page displays all the loans visited by the user. To enter the My Search page, users can click on the My Search link.
+
+.. image:: ./../../images/image270.png
+
+*Figure 5.33: My Search link*
+
+The My Search page displays the information about the bank loans visited which includes Bank Name, Loan and Date visited. The My Search page looks like this:
+
+.. image:: ./../../images/image268.png
+
+*Figure 5.34: My Search page*
+
+Required Documents
+^^^^^^^^^^^^^^^^^^^
+
+The Required Documents page can be entered by clicking on the Required Documents link.
+
+.. image:: ./../../images/image274.png
+
+*Figure 5.35: Required Documents link*
+
+In this page, the user can submit all the required documents for loan processing. It is an extension of the personal information page. In this page, the user can submit all the further documents required by uploading files and filling out the information in the form. The required documents page looks like this:
+
+.. image:: ./../../images/image272.png
+
+*Figure 5.36: Required Documents link*
+
