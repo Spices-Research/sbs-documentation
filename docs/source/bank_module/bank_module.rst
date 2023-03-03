@@ -612,7 +612,7 @@ Once the delete button is clicked, a confirmation box will appear where the user
 
 *Figure 3.78: Confirm Delete*
 
-Credit Created
+Credit Card
 ---------------
 
 Credit Card Settings
