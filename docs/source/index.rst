@@ -23,6 +23,11 @@ Contents
 
    bank_module/bank_module
 
+.. toctree::
+   :caption: Advertisement Module
+
+   advertisement_module/advertisement_module
+
 
 Indices and tables
 ==================
